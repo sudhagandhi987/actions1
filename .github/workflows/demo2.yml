@@ -7,4 +7,4 @@ jobs:
     runs-on:ubuntu-latest
     steps:
     -name:create a text file
-    -run:echo:'hello demo2'>demo2.txt
+     run:echo "hello demo2" >demo2.txt
